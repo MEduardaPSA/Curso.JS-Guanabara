@@ -1,2 +1,2 @@
 # Curso.JS-Guanabara
-Curso Javascript com o professor Gustavo Guanabara no Curso em Vídeos.
+Curso de Javascript com o professor Gustavo Guanabara no Curso em Vídeos.
